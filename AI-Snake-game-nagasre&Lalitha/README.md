@@ -1,6 +1,6 @@
 # Comparision of AI agents in snake game
 
-This is the final project for the course of Artificial Intelligence(Spring-2022). This project is implemented by nagasree rayala and Lalitha penmetsa.
+This is the final project for the course of Artificial Intelligence(Spring-2022). This project is implemented by Nagasree rayala and Lalitha penmetsa.
 
 This project implements snake game using Artificial Intelligence agents. We have developed agents based on search based and reinforcement learning based agents. We have implemented total four agents to implement the game.
 
